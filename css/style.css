@@ -269,7 +269,7 @@ a:hover {
 /*main 3*/
 
 .main3 {
-    background-image: url(../img/back.png);
+    background-image: url('../img/back.png');
     display: block;
     background-repeat: no-repeat;
     background-size: cover;
